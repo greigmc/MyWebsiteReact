@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[855],{8434:(t,e,n)=>{n.d(e,{J:()=>s});var a=n(5900);class s{constructor(){this.quantity=2}load(t){if(!t)return;const e=t.quantity;void 0!==e&&(this.quantity=(0,a.Cs)(e))}}},855:(t,e,n)=>{n.d(e,{loadExternalRemoveInteraction:()=>a});n(8434);async function a(t){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await t.addInteractor("externalRemove",(async t=>{const{Remover:e}=await n.e(6058).then(n.bind(n,6058));return new e(t)}),e)}}}]);
+//# sourceMappingURL=855.ced36d44.chunk.js.map
