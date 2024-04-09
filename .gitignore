@@ -5,8 +5,9 @@
 
 # Node artifact files
 node_modules/
-# build/
+build/
 dist/
+server/
 
 #backend contact form
 contactform_backend
@@ -51,7 +52,7 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-*.jpg
+# *.jpg
 *.png
 
 # dotenv environment variables file
