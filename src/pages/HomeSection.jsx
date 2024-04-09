@@ -13,7 +13,7 @@ const HomeSection = () => {
       {/* title */}
       <div className="titan-caption">
         <div className="caption-content">
-          {/* <div className="font-alt mb-30 titan-title-size-2">Hello &amp; welcome to</div> */}
+          <div className="font-alt mb-30 titan-title-size-2">Hello &amp; welcome to</div>
           <div className="font-alt mb-35 titan-title-size-3">Greig McMahon</div>
           <div className="font-alt mb-40 titan-title-size-4">Web Development</div>
           {/* <Link className="section-scroll btn btn-border-w btn-round" href="#about">Learn More</Link> */}

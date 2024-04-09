@@ -1,5 +1,5 @@
 import React from "react";
-import { GoogleMap, Marker, useLoadScript } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, useLoadScript } from '@react-google-maps/api';
 
 
 
@@ -17,7 +17,7 @@ function Map() {
       center={{ lat: -38.072261747305355, lng: 145.12459758465982 }}
       mapContainerClassName='map-container'
     >
-      <Marker position={{ lat: -38.072261747305355, lng: 145.12459758465982 }} />
+      <MarkerF position={{ lat: -38.072261747305355, lng: 145.12459758465982 }} />
 
     </GoogleMap>
   )
