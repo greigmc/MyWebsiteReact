@@ -11,7 +11,6 @@ function Recaptcha() {
   const SITE_KEY = process.env.REACT_APP_RECAPTCHA_API_SITE_KEY;
   const SECRET_KEY = process.env.REACT_APP_RECAPTCHA_API_SECRET_KEY;
 
-  // eslint-disable-next-line no-unused-vars
   const handleSubmit = async (e) => {
     e.preventDefault();
     let token = captchaRef.current.getValue();
@@ -30,6 +29,8 @@ function Recaptcha() {
       }
     }
   };
+  console.log(handleSubmit);
+
 
   const verifyToken = async (token) => {
     let APIResponse = [];
