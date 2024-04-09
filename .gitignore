@@ -60,7 +60,4 @@ Thumbs.db
 .htaccess
 /contactform_backend
 /build
-sftp.json
-cert.pem
-csr.pem
-key.pem
+
