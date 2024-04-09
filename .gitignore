@@ -6,7 +6,7 @@
 # Node artifact files
 node_modules/
 build/
-server/
+# dist/
 
 #backend contact form
 contactform_backend
