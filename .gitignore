@@ -55,7 +55,7 @@ Thumbs.db
 *.png
 
 # dotenv environment variables file
-.env
+# .env
 .env.test
 .htaccess
 /contactform_backend
