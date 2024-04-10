@@ -7,6 +7,7 @@
 node_modules/
 build/
 dist/
+server/
 
 #backend contact form
 contactform_backend
@@ -51,7 +52,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-# *.jpg
 *.png
 
 # dotenv environment variables file

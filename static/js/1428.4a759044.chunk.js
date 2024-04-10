@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1428],{1428:(e,i,t)=>{function a(e){var i;const{context:t,particle:a,radius:n}=e,s=a.shapeData;t.moveTo(-n,0),t.lineTo(n,0),t.lineCap=null!==(i=null===s||void 0===s?void 0:s.cap)&&void 0!==i?i:"butt"}t.d(i,{drawLine:()=>a})}}]);
-//# sourceMappingURL=1428.4a759044.chunk.js.map
